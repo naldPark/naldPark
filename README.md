@@ -1,9 +1,25 @@
+
+
 ### Hi there 👋
 
 
-**naldPark/naldPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nald Park 😉
+### Who Am I
+- 🌱 I’m currently learning java, Spring, js, Algorithm
+- 🥇 I majored in Business Management
+- 🚅 My hometown is Gwacheon, Gyeonggi-do in Korea
 
-Here are some ideas to get you started:
+### Experience
+- 🎓 Ajou University , Business Management (2006.03~ )
+- 💊 KH Accademy, java Programming (2021.01 ~ )
+- 🌍 CUNEF University, Business Management(Exchange) (2007.09~2008.09)
+
+### What I Like
+- 📺 Playing the guitar
+- 🔵 Snowboarding
+- 🍕 Scuba
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
