@@ -23,6 +23,8 @@
 - 🍕 Scuba
 
 
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀)크기설정" alt ="rubberDuck></img><br/>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
