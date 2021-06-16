@@ -2,8 +2,10 @@
 
 ### Hi there 👋
 
-
 # Nald Park 😉
+
+## Owns a fun-loving character, and looks for a position that can offer opportunities of challenging experience.
+
 ### Who Am I
 - 🌱 I’m currently learning java, Spring, js, Algorithm
 - 🥇 I majored in Business Management
