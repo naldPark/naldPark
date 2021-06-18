@@ -41,10 +41,10 @@
 
 
 ### Contact
-<p align="center">
+<p>
   <a href="https://blog.naver.com/8734747"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/8734747"/></a>&nbsp
-  <a href="https://www.instagram.com//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>&nbsp
-  <a href="mailto:daita0225@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daita0225@naver.com"/></a>
+  <a href="https://www.linkedin.com/in/naldpark"><img src="https://img.shields.io/badge/Linkedin-E4405F?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naldpark"/></a>&nbsp
+  <a href="mailto:daita0225@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Email&logoColor=white&link=daita0225@naver.com"/></a>
 </p>
 <br>
 
