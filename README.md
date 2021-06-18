@@ -10,8 +10,6 @@
 - 😄 owns a fun-loving character
 - 🌱 I’m currently learning java, Spring, js, Algorithm
 - 👯 I’m looking for a position that can offer opportunities of challenging experience.
-- 🥇 I majored in Business Management
-- 🚅 My hometown is Gwacheon, Gyeonggi-do in Korea
 
 ### Experience
 
