@@ -10,10 +10,10 @@
 
 ## Experience
 
-- 💊 KH Accademy, Java Programming ( 2021.01 ~ 2021.08 )
-- 🎓 Ajou University , Business Management  bachelor degree ( 2012.02 )
-- 🌍 Colegio Universitario de Estudios Financieros in Madrid Spain, Business Management(Exchange) ( 2010.01~2010.07 )
-- 🎒 Pacific Gateway International College in Toronto Canada, Leaning English ( 2007.09~2008.09 )
+- 💊 KH Academy, Java Programming ( 2021.01 ~ 2021.08 )
+- 🎓 Ajou University , Business Management Bachelor degree ( 2012.02 )
+- 🌍 Colegio Universitario de Estudios Financieros in Madrid Spain, Business Management(as an exchange student) ( 2010.01 ~ 2010.07 )
+- 🎒 Pacific Gateway International College in Toronto Canada, Learning English ( 2007.09 ~ 2008.09 )
 
 ## What I Like
 
