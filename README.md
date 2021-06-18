@@ -1,10 +1,10 @@
 
 
-### Hi there 👋
-
 # Nald Park 😉
 
 ## JAVA PROGRAMMER
+
+### Hi there 👋
 
 ### Who Am I
 - 😄 Pronouns: owns a fun-loving character
