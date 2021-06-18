@@ -7,10 +7,7 @@
 - 😄 owns a fun-loving character
 - 🌱 I’m currently learning java, Spring, js, Algorithm
 - 👯 I’m looking for a position that can offer opportunities of challenging experience.
-
-## Experience
-
-- 💊 KH Academy, Java Programming ( 2021.01 ~ 2021.08 )
+  
 
 ## What I Like
 
