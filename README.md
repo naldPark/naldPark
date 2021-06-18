@@ -27,3 +27,8 @@
 
 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
+
+<img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Oracle-3766AB?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
