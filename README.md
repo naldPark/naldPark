@@ -28,7 +28,7 @@
 - 🍕 Scuba
 
 ### Tech Stack
-<p style="padding-left:20px">
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6aad3d?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-c14432?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
@@ -40,11 +40,11 @@
 
 
 
-### Tech Stack
+### Contact
 <p align="center">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://blog.naver.com/8734747"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/8734747"/></a>&nbsp
+  <a href="https://www.instagram.com//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>&nbsp
+  <a href="mailto:daita0225@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daita0225@naver.com"/></a>
 </p>
 <br>
 
