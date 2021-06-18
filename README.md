@@ -14,17 +14,20 @@
 - 🚅 My hometown is Gwacheon, Gyeonggi-do in Korea
 
 ### Experience
+
 - 💊 KH Accademy, Java Programming (2021.01 ~ 2021.08 )
 - 🎓 Ajou University , Business Management  bachelor degree ( 2012.02 )
 - 🌍 Colegio Universitario de Estudios Financieros in Madrid Spain, Business Management(Exchange) (2010.01~2010.07)
 - 🌍 Pacific Gateway International College in Toronto Canada, Leaning English (2007.09~2008.09)
 
 ### What I Like
+
 - 💬 Programming
 - 📺 Playing the guitar
 - 🔵 Snowboarding
 - 🍕 Scuba
 
+### Tech Stack
 
 <img src="https://img.shields.io/badge/Java-00718b?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6aad3d?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;
