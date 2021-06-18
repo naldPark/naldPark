@@ -1,10 +1,8 @@
-# Nald Park 😉 <a id="nald">
+# JAVA PROGRAMMER Nald Park 😉 <a id="nald">
 ![nald](https://capsule-render.vercel.app/api?type=soft&color=auto&text=If%20imaginable,%20It's%20able.&fontSize=40&animation=twinkling)
 
-<p align='center'>
-## JAVA PROGRAMMER
-</p>
-### Hi there 👋
+
+### 👋 Hi there 👋
 
 ### Who Am I
 - 😄 owns a fun-loving character
