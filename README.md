@@ -2,8 +2,6 @@
 ![nald](https://capsule-render.vercel.app/api?type=soft&color=auto&text=If%20imaginable,%20It's%20able.&fontSize=40&animation=twinkling)
 
 
-### 👋 Hi there 👋
-
 ## Who Am I
 - 💻 Backend Developer
 - 😄 owns a fun-loving character
