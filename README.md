@@ -29,7 +29,7 @@
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/Java-00718b?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6aad3d?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-c14432?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black"/></a>&nbsp;
