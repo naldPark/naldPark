@@ -20,9 +20,9 @@
 ### What I Like
 
 - 💬 Programming
-- 📺 Playing the guitar
-- 🔵 Snowboarding
-- 🍕 Scuba
+- 🎵 Playing the guitar
+- ❄️ Snowboarding
+- 🐬 Scubadiving
 
 ### Tech Stack
 <p>
