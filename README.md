@@ -28,10 +28,10 @@
 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/jQuery-3766AB?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=black"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/html5-3766AB?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-3766AB?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
 
 
