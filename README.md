@@ -12,7 +12,7 @@
 
 - 💊 KH Academy, Java Programming ( 2021.01 ~ 2021.08 )
 - 🎓 Ajou University in Suwon, Korea / Business Management Bachelor degree ( 2012.02 )
-- 🌍 Colegio Universitario de Estudios Financieros in Madrid, Spain / Business Management(as an exchange student) ( 2010.01 ~ 2010.07 )
+- 🌍 CUNEF in Madrid, Spain / Business Management(as an exchange student) ( 2010.01 ~ 2010.07 )
 - 🎒 Pacific Gateway International College in Toronto, Canada / Learning English ( 2007.09 ~ 2008.09 )
 
 ## What I Like
