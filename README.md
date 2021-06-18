@@ -1,8 +1,5 @@
-## Soft <a id="soft">
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
-
-
-# Nald Park 😉
+# Nald Park 😉 <a id="nald">
+![nald](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
 
 ## JAVA PROGRAMMER
 
