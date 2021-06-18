@@ -9,21 +9,21 @@
 - 😄 owns a fun-loving character
 - 🌱 I’m currently learning java, Spring, js, Algorithm
 - 👯 I’m looking for a position that can offer opportunities of challenging experience.
-
+<hr/>
 ### Experience
 
 - 💊 KH Accademy, Java Programming ( 2021.01 ~ 2021.08 )
 - 🎓 Ajou University , Business Management  bachelor degree ( 2012.02 )
 - 🌍 Colegio Universitario de Estudios Financieros in Madrid Spain, Business Management(Exchange) ( 2010.01~2010.07 )
 - 🎒 Pacific Gateway International College in Toronto Canada, Leaning English ( 2007.09~2008.09 )
-
+<hr/>
 ### What I Like
 
 - 💬 Programming
 - 🎵 Playing the guitar
 - ❄️ Snowboarding
 - 🐬 Scubadiving
-
+<hr/>
 ### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/html5-dd4d25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-116eb9?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
 </p>
-
+<hr/>
 ### Contact
 <p>
   <a href="https://blog.naver.com/8734747"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/8734747"/></a>&nbsp
