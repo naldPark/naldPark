@@ -1,5 +1,5 @@
 # Nald Park 😉 <a id="nald">
-![nald](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+![nald](https://capsule-render.vercel.app/api?type=soft&color=auto&textIf%imaginable,%It's%able.%20readme&fontSize=40&animation=twinkling)
 
 ## JAVA PROGRAMMER
 
