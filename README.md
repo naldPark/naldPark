@@ -44,7 +44,7 @@
 <p>
   <a href="https://blog.naver.com/8734747"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/8734747"/></a>&nbsp
   <a href="https://www.linkedin.com/in/naldpark"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/naldpark"/></a>&nbsp
-  <a href="mailto:daita0225@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Email&logoColor=white&link=daita0225@naver.com"/></a>
+  <a href="mailto:daita0225@naver.com"><img src="https://img.shields.io/badge/Email-494949?style=flat-square&logo=#30B980&logoColor=white&link=daita0225@naver.com"/></a>
 </p>
 <br>
 
