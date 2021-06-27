@@ -3,7 +3,7 @@
 
 
 ## Who Am I
-- 💻 Backend Developer
+- 💻 Web Developer
 - 😄 owns a fun-loving character
 - 🌱 I’m currently learning java, Spring, js, Algorithm
 - 👯 I’m looking for a position that can offer opportunities of challenging experience.
