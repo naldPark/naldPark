@@ -19,7 +19,7 @@
 ## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/SpringBoot-6aad3d?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6aad3d?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-c14432?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-3766AB?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
