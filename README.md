@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/jQuery-3766AB?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/html5-dd4d25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-116eb9?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/AJAX-116eb9?style=flat-square&logo=AJAX&logoColor=white"/></a>&nbsp;
 </p>
 
 ## Contact
