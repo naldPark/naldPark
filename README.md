@@ -36,6 +36,5 @@
 </p>
 <br>
 
-https://github-readme-stats.vercel.app/api?username=naldpark
 
-
+  [![naldpark's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/naldpark/github-readme-stats)
