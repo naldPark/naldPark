@@ -5,7 +5,7 @@
 ## Who Am I
 - 💻 Web Developer
 - 😄 owns a fun-loving character
-- 🌱 I’m currently learning java, Spring, js, Algorithm
+- 🌱 I’m currently learning JPA, Spring Boot and Thymeleaf.
 - 👯 I’m looking for a position that can offer opportunities of challenging experience.
   
 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6aad3d?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/apache tomcat-f8dc75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-c14432?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp;
@@ -28,7 +29,7 @@
   <img src="https://img.shields.io/badge/html5-dd4d25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-116eb9?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/apache tomcat-f8dc75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>&nbsp;
+
 </p>
 
 ## Contact
