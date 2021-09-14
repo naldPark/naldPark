@@ -37,4 +37,4 @@
 <br>
 
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naldpark)]
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naldpark)
