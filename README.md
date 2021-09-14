@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/html5-dd4d25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-116eb9?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/apache tomcat-f8dc75?style=for-the-badge&logo=apachetomcat&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/apache tomcat-f8dc75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>&nbsp;
 </p>
 
 ## Contact
