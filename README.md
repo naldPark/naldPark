@@ -3,7 +3,7 @@
 
 
 ## Who Am I
-- 💻 Web Developer
+- 💻 Developer
 - 😄 owns a fun-loving character
 - 🌱 I’m currently learning JPA, Spring Boot and Thymeleaf.
 - 👯 I’m looking for a position that can offer opportunities of challenging experience.
