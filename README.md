@@ -41,4 +41,5 @@
 <br>
 
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naldpark)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=naldpark)
+  [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naldpark&langs_count=5&theme=tokyonight)]()
