@@ -5,7 +5,7 @@
 ## Who Am I
 - 💻 Developer
 - 😄 owns a fun-loving character
-- 🌱 I’m currently learning JPA, Spring Boot and Thymeleaf.
+- 🌱 I’m currently learning .....tons of things
 - 👯 I’m looking for a position that can offer opportunities of challenging experience.
   
 
@@ -34,8 +34,8 @@
 
 ## Contact
 <p>
-  <a href="https://blog.naver.com/8734747"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/8734747"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/naldpark"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/naldpark"/></a>&nbsp
+ <!-- <a href="https://blog.naver.com/8734747"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/8734747"/></a>&nbsp 
+  <a href="https://www.linkedin.com/in/naldpark"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/naldpark"/></a>&nbsp-->
   <a href="mailto:nald@kakao.com"><img src="https://img.shields.io/badge/Email-494949?style=flat-square&logo=Minutemailer&logoColor=white&link=nald@kakao.com"/></a>
 </p>
 <br>
